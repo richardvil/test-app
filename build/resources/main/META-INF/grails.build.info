@@ -1,0 +1,6 @@
+#Wed, 08 Aug 2018 20:41:47 -0300
+
+info.app.version=0.1
+info.app.name=test-app
+grails.env=development
+info.app.grailsVersion=3.3.6
