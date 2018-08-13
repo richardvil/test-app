@@ -1,0 +1,16 @@
+.idea
+build
+.gradle
+/.gradle/3.5/fileContent/annotation-processors.bin
+/.gradle/3.5/fileContent/fileContent.lock
+/.gradle/3.5/taskHistory/fileHashes.bin
+/.gradle/3.5/taskHistory/fileSnapshots.bin
+/.gradle/3.5/taskHistory/taskHistory.bin
+/.gradle/3.5/taskHistory/taskHistory.lock
+/11061.iml
+/build/classes/main/test/app/ApplicationController.class
+/build/classes/main/test/app/Group.class
+/build/classes/main/test/app/GroupController.class
+/build/classes/main/test/app/Person.class
+/build/classes/main/test/app/PersonController.class
+/build/resources/main/META-INF/grails.build.info
